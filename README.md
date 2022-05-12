@@ -8,4 +8,4 @@
 \
 :maple_leaf: I'm based in Montreal, Canada. \
 \
-:music_score: I love playing music in my free time. \
+:musical_note: I love playing music in my free time. \
